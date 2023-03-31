@@ -32,10 +32,9 @@ const Login=()=>{
               name="customCheck1"/>
               <span>remember the password</span>
               </label>
-        
-          <button type="submit">
+          <button type="submit" onClick={()=>{window.location.href="//www.legalexpression.com"}} >
             Login
-          </button>  
+          </button> 
         <p>
           Change <a href='/change-password'>password?</a>
         </p>
