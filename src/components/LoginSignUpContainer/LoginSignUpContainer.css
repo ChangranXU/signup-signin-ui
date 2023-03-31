@@ -1,7 +1,7 @@
 .login-signup-container {
   display: grid;
   grid-template-columns: 80% 20% 0%;
-  width: 70%;
+  width: 60%;
   height: 666px;
   background-attachment: #ffffff;
   padding: 0px;
